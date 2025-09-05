@@ -32,3 +32,10 @@ EOF
 .env.local
 .env.*.localtarget/
 target/
+
+# build
+ target/
+# new relic
+ newrelic/
+# classes
+ *.class
