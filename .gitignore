@@ -31,3 +31,4 @@ EOF
 .env
 .env.local
 .env.*.localtarget/
+target/
