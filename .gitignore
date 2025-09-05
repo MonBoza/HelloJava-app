@@ -26,3 +26,8 @@ buildNumber.properties
 # New Relic local config
 newrelic/newrelic.yml
 EOF
+
+# env
+.env
+.env.local
+.env.*.local
