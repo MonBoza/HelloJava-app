@@ -30,4 +30,4 @@ EOF
 # env
 .env
 .env.local
-.env.*.local
+.env.*.localtarget/
