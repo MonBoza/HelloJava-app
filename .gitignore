@@ -16,7 +16,7 @@ buildNumber.properties
 .project
 .settings/
 .vscode/
-
+target/
 # OS files
 .DS_Store
 
